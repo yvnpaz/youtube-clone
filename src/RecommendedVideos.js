@@ -32,7 +32,7 @@ function RecommendedVideos() {
                     image="https://avatars2.githubusercontent.com/u/1645051?s=200&v=4"
                  />
                 <VideoCard 
-                    title="Become a developer in 10 minutes | 2019/2020"
+                    title="Linux in 5 minutes | 2019/2020"
                     views="1.1M views"
                     timestamp="2 days ago"
                     channelImage="https://i.ytimg.com/vi/hZDaS9xyINI/hq720.jpg?sqp=-oaymwEZCOgCEMoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA7V6CB1kWEJ13aT-tzSCASF4vzgQ"
