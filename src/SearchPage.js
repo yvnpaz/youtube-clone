@@ -27,8 +27,18 @@ function SearchPage() {
                 subs="120K"
                 description="Do you want know how will end this gorgeous serie!!"
                 channel="TvTwitch"
+                timestamp="59 seconds ago"
                 title="Let's see the mandalorian"
                 image="https://images.firstpost.com/wp-content/uploads/2020/03/The-Mandalorian-review-380.jpg?impolicy=website&width=1200&height=800"
+            />
+             <VideoRow
+                views="4M"
+                subs="501K"
+                description="Do you want know how will end this gorgeous serie!!"
+                channel="TvTwitch_ES"
+                timestamp="4 hours ago"
+                title="Let's see the mandalorian"
+                image="https://fee.org/media/36253/mandalorian-wideshot.jpg?center=0.257396449704142,0.52333333333333332&mode=crop&height=656&widthratio=2.1341463414634146341463414634&rnd=132212239230000000"
             />
         </div>
     )
