@@ -1,6 +1,7 @@
 import React from 'react'
 import TuneIcon from '@material-ui/icons/Tune';
 import ChannelRow from './ChannelRow';
+import VideoRow from './VideoRow';
 import './SearchPage.css'
 
 function SearchPage() {
@@ -20,16 +21,8 @@ function SearchPage() {
                 description="You can info awesome programming lessons here! Also, expect programming tips 
                 and tricks that will take your coding skills to the ..."
             />
-            
-            <ChannelRow 
-                image="https://cdn.mos.cms.futurecdn.net/SRxSp8y2pSBjCRXo5jiWrG.jpg"
-                channel="XXL Pro"
-                verified
-                subs="100K"
-                noOfVideos={110}
-                description="You can info see Series here! Also, expect programming tips 
-                and tricks that will take your coding skills to the ..."
-            />
+            <hr />
+            <VideoRow />
         </div>
     )
 }

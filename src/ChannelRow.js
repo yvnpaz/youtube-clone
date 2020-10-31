@@ -13,11 +13,11 @@ function ChannelRow({ image, channel, verified, subs, noOfVideos, description })
             />
             <div className="channelRow__text">
                 <h4>{channel} {verified && <VerifiedUserIcon />}</h4>
-                <p>{subs} subscribers * {noOfVideos} videos</p>
+                <p>{subs} subscribers · {noOfVideos} videos</p>
                 <p>{description}</p>
             </div>
         </div>
     )
 }
 
-export default ChannelRow
+export default ChannelRow;
