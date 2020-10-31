@@ -17,7 +17,17 @@ function SearchPage() {
                 verified
                 subs="120K"
                 noOfVideos={328}
-                description="You cand infd awesome programming lessons here! Also, expect programming tips 
+                description="You can info awesome programming lessons here! Also, expect programming tips 
+                and tricks that will take your coding skills to the ..."
+            />
+            
+            <ChannelRow 
+                image="https://cdn.mos.cms.futurecdn.net/SRxSp8y2pSBjCRXo5jiWrG.jpg"
+                channel="XXL Pro"
+                verified
+                subs="100K"
+                noOfVideos={110}
+                description="You can info see Series here! Also, expect programming tips 
                 and tricks that will take your coding skills to the ..."
             />
         </div>
